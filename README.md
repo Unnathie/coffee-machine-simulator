@@ -72,7 +72,7 @@ If not… no drink for you 😔
 ## 🧋 Credits
 
 Coded with logic and late-night debugging by  
-**Unnathi** → [GitHub: @unnathi3]((https://github.com/Unnathie))
+**Unnathi** → [GitHub: [Unnathi](https://github.com/Unnathie)]
 
 Now go simulate some caffeine chaos ☕💥
 
